@@ -1,7 +1,7 @@
  # 👋 Hi, I'm Srinidhi 
 
 🚀 Passionate about creating solutions for sustainability and public transport efficiency.  
-🌱 Currently working on **Upcycle Hub** (https://github.com/yourusername/upcycle-hub) and exploring ways to connect resources with innovation.  
+🌱 Currently working on **Upcycle Hub** and exploring ways to connect resources with innovation.  
 🎨 Excited about UI/UX design 
 
 ---
