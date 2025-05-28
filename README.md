@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Skills & Tools
-- **Languages**: JavaScript, Python
+- **Languages**: Java,C++,JavaScript, Python
 - **Frameworks**: React, Express
 - **Databases**: PostgreSQL
 - **Design Tools**: Figma, Adobe XD
