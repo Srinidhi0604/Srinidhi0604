@@ -18,8 +18,6 @@
 🌟 Featured Projects
  [**Upcycle Hub**](https://github.com/Srinidhi0604/Upycycle): Connecting waste producers with artisans and upcyclers.  
   <img src="https://img.shields.io/badge/Status-In%20Progress-green" alt="Status">  
- [**WaitlistWizard**](https://github.com/Srinidhi0604/waitlistwizard): Streamlining waitlist management for businesses and customers.  
-  <img src="https://img.shields.io/badge/Deployed-Vercel-blue" alt="Deployed">  
  
 
 
