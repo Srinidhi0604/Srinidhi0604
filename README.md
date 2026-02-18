@@ -1,8 +1,11 @@
  👋 Hi, I'm Srinidhi
 
 🚀 Software developer focused on AI-driven infrastructure orchestration, autonomous systems, and scalable full-stack platforms.
+
 🌍 Building systems that improve infrastructure reliability, sustainability, and operational automation.
+
 🧠 Currently working on various projects revolving around Agentic AI
+
 🎨 Strong interest in UI/UX design, digital twins, and real-time visualization systems.
 
 🔧 Skills & Tools
