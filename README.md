@@ -1,29 +1,55 @@
- # 👋 Hi, I'm Srinidhi 
+ 👋 Hi, I'm Srinidhi
 
-🚀 Passionate about creating solutions for sustainability and public transport efficiency.  
-🌱 Currently working on **Upcycle Hub** and exploring ways to connect resources with innovation.  
-🎨 Excited about UI/UX design 
+🚀 Software developer focused on AI-driven infrastructure orchestration, autonomous systems, and scalable full-stack platforms.
+🌍 Building systems that improve infrastructure reliability, sustainability, and operational automation.
+🧠 Currently working on various projects revolving around Agentic AI
+🎨 Strong interest in UI/UX design, digital twins, and real-time visualization systems.
 
----
+🔧 Skills & Tools
 
-## 🔧 Skills & Tools
-- **Languages**: Java,C++,JavaScript, Python
-- **Frameworks**: React, Express
-- **Databases**: PostgreSQL
-- **Design Tools**: Figma, Adobe XD
-- **Other Tools**: Git, Docker, Vercel
+Languages
+Java • C++ • JavaScript • Python • TypeScript
 
+Frontend & Backend
+React • Next.js • Node.js • Express
 
+Infrastructure & AI
+Archestra.AI • MCP Servers • Multi-Agent Systems • Reinforcement Learning • Ollama • Docker
+
+Databases
+PostgreSQL
+
+Design & Visualization
+Figma • Adobe XD • CesiumJS
+
+DevOps & Tools
+Git • Docker • Vercel • Grafana • REST APIs
 
 🌟 Featured Projects
- [**Upcycle Hub**](https://github.com/Srinidhi0604/Upycycle): Connecting waste producers with artisans and upcyclers.  
-  <img src="https://img.shields.io/badge/Status-In%20Progress-green" alt="Status">  
- 
+Sentinel – Autonomous Infrastructure Orchestration
 
+AI-driven orchestration platform using Archestra agents and MCP tools to monitor, analyze, and resolve infrastructure incidents in power, hydro, and sewage systems.
+Tech: Next.js, Archestra, MCP, Docker, Grafana, CesiumJS
+https://github.com/Srinidhi0604/ArchestraProject
 
- 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinidhi0604&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi0604&layout=compact&theme=radical)
+Upcycle Hub – Sustainability Platform
+
+Platform connecting waste producers with artisans and upcyclers to promote reuse and reduce waste.
+Tech: React, PostgreSQL, Express
+https://github.com/Srinidhi0604/Upycycle
+
+RL Drone Simulator
+
+Physics-based quadcopter simulator for training autonomous drone navigation using reinforcement learning.
+Tech: Unity, ML-Agents, Python
+
+🎯 Current Focus
+
+• Autonomous infrastructure orchestration
+• Multi-agent AI systems
+• Reinforcement learning for robotics
+• Full-stack system design
+• Real-time infrastructure visualization
 
 ---
 
